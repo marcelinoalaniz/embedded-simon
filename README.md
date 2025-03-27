@@ -1,1 +1,1 @@
-# embedded-simon
+simonmain.c contains the code uploaded to the MSPM0G3507 to play simon with 4 buttons, and 4 LEDs. The game supports a startup animation, gameplay, win/lose animations, and a timeout so the user will lose if they take too long. The timeout and sequence length can be changed easily at the top of the code.
